@@ -129,8 +129,8 @@ https://your-worker.example.workers.dev/unRegisterWebhook
 请将运行示例图片放入 `images/` 目录后，在此引用，例如：
 
 ![功能示例](images/imge_demo_captcha.png)
-[命令示例](9fb1b8c9-384f-4a25-b3f8-37bbe35ac609.png)
-![管理员操作界面](d7ddcb5e-c61e-4c02-9b78-4884b70eedbe.png)
+[命令示例](images/9fb1b8c9-384f-4a25-b3f8-37bbe35ac609.png)
+![管理员操作界面](images/d7ddcb5e-c61e-4c02-9b78-4884b70eedbe.png)
 
 （上述文件名需替换为实际存在的文件）
 
