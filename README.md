@@ -25,7 +25,7 @@
 .
 ├── worker_v2.js          # Cloudflare Worker 主代码
 ├── images/               # 运行截图、二维码
-│   ├── imge_demo_*.png   # 成功运行截图（示例，需自备）
+│   ├── imge_demo_*.png   # 成功运行截图（示例）
 │   └── photo_2025-11-12_16-06-50.jpg  # TRC20 打赏二维码
 └── README.md             # 当前文档
 ```
